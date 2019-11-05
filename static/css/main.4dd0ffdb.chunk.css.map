@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/LT/Sites/tutorial/calculator-for-tobias/src/App.scss"],"names":[],"mappings":"AAEA,KACE,wBAAwB,CAG1B,mBACE,kBAAmB","file":"main.4dd0ffdb.chunk.css","sourcesContent":["$secondary: red;\n\nbody{\n  background-color:#f3fafd;\n}\n\n.questionContainer{\n  padding-right: 6rem;\n}"]}
