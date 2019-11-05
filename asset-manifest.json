@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/for-tobias/static/css/main.10012448.chunk.css",
+    "main.css": "/for-tobias/static/css/main.db344a24.chunk.css",
     "main.js": "/for-tobias/static/js/main.7724eedc.chunk.js",
     "main.js.map": "/for-tobias/static/js/main.7724eedc.chunk.js.map",
     "runtime-main.js": "/for-tobias/static/js/runtime-main.8af2490c.js",
@@ -9,16 +9,16 @@
     "static/js/2.80f09baa.chunk.js": "/for-tobias/static/js/2.80f09baa.chunk.js",
     "static/js/2.80f09baa.chunk.js.map": "/for-tobias/static/js/2.80f09baa.chunk.js.map",
     "index.html": "/for-tobias/index.html",
-    "precache-manifest.5c147d51137b5e2b1c3643a2f7e519a9.js": "/for-tobias/precache-manifest.5c147d51137b5e2b1c3643a2f7e519a9.js",
+    "precache-manifest.125682391a049d10f5ddbbd4a2bb8099.js": "/for-tobias/precache-manifest.125682391a049d10f5ddbbd4a2bb8099.js",
     "service-worker.js": "/for-tobias/service-worker.js",
     "static/css/2.55c66c37.chunk.css.map": "/for-tobias/static/css/2.55c66c37.chunk.css.map",
-    "static/css/main.10012448.chunk.css.map": "/for-tobias/static/css/main.10012448.chunk.css.map"
+    "static/css/main.db344a24.chunk.css.map": "/for-tobias/static/css/main.db344a24.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.8af2490c.js",
     "static/css/2.55c66c37.chunk.css",
     "static/js/2.80f09baa.chunk.js",
-    "static/css/main.10012448.chunk.css",
+    "static/css/main.db344a24.chunk.css",
     "static/js/main.7724eedc.chunk.js"
   ]
 }
